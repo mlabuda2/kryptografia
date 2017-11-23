@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bukmacherkaProject/.idea/bukmacherkaProject.iml" filepath="$PROJECT_DIR$/../bukmacherkaProject/.idea/bukmacherkaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vigenereMLabuda/.idea/vigenereMLabuda.iml" filepath="$PROJECT_DIR$/../vigenereMLabuda/.idea/vigenereMLabuda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xor.iml" filepath="$PROJECT_DIR$/.idea/xor.iml" />
+    </modules>
+  </component>
+</project>
